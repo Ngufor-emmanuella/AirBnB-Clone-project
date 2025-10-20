@@ -35,3 +35,8 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
   - Authorization ensures the user accessing a specific section in the application has all the rights and priviliegdes to do so
   -Rate limiting is  a security  measures thats ensures how many requests a user, device, or IP address can send to the  API or server in a certain amount of time
   - This is important because it prevents the application from crashing as a result to too many request sent to the server within a given time.
+
+  ## CI/CD Pipeline
+  - CI/CD ensures continuous Integration and Continuous Deployment (or Delivery).
+  - It’s a process that automates how code changes are built, tested, and deployed to production.
+  - The tools used are GitHub Actions, Docker etc
