@@ -29,3 +29,9 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
  ## Feature Breakdown
  - there will be features like  user management, property management, booking system,
+
+ ## API Security 
+  - Authentication enusres that it is the right user accessing the application
+  - Authorization ensures the user accessing a specific section in the application has all the rights and priviliegdes to do so
+  -Rate limiting is  a security  measures thats ensures how many requests a user, device, or IP address can send to the  API or server in a certain amount of time
+  - This is important because it prevents the application from crashing as a result to too many request sent to the server within a given time.
