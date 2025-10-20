@@ -22,3 +22,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
  ###### Django : A web framework used for building restful API's
  ###### PostgresSQL : Database to store data and manage  records in rows ans columns
  ###### GraphQL : An API layer for communicating between the backend and frontend 
+
+ ## Database Design;
+ The key entities required for the project, are Users, Properties, Bookings, Reviews, and Payments
+ A user can have multiple properties, a booking belongs to a property
