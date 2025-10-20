@@ -24,5 +24,8 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
  ###### GraphQL : An API layer for communicating between the backend and frontend 
 
  ## Database Design;
- The key entities required for the project, are Users, Properties, Bookings, Reviews, and Payments
- A user can have multiple properties, a booking belongs to a property
+  - The key entities required for the project, are Users, Properties, Bookings, Reviews, and Payments
+ - A user can have multiple properties, a booking belongs to a property
+
+ ## Feature Breakdown
+ - there will be features like  user management, property management, booking system,
