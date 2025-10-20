@@ -1,1 +1,2 @@
 # AirBnB-Clone-project
+The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It is a full-stack development application, focusing on backend systems, database design, API development, and application security.
