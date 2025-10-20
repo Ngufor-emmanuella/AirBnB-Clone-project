@@ -16,3 +16,9 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
   ##### CI/CD Pipeline Integration:
  setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.
+
+ ## Technology Stack;
+ In this project, the following technologies will be used- Django, PostgreSQL, GraphQL
+ ###### Django : A web framework used for building restful API's
+ ###### PostgresSQL : Database to store data and manage  records in rows ans columns
+ ###### GraphQL : An API layer for communicating between the backend and frontend 
